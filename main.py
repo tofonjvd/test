@@ -1,7 +1,4 @@
-print("this is just a test !!!")
+def mult(a, b):
+	return a + b
 
-a = 1
-b = 2
-c = a + b
-
-print(f"result: {c}")
+print(mult(3, 4))
