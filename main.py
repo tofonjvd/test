@@ -7,6 +7,10 @@ def mult(a, b):
 def div(a, b):
 	return a / b
 
+def min(a, b):
+	return a - b
+
 print(sum(3, 4))
 print(mult(3, 4))
 print(div(3, 4))
+print(min(3, 4))
